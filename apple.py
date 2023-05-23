@@ -15,4 +15,4 @@ def cadastrarApple():
     apple = {"modelo": modelo, "anoDeFabricacao": anoDeFabricacao, "numeroDeSerie": numeroDeSerie, "cor": cor,
              "osOriginal": osOriginal,  "estado" : estado}
     apple.append(apple)
-    print("Cliente cadastrado com sucesso!")
+    print("Cadastrado com sucesso!")

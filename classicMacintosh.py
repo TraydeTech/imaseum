@@ -14,4 +14,4 @@ def cadastrarClassicMacintosh():
     classicMacintosh = {"modelo": modelo, "anoDeFabricacao": anoDeFabricacao, "numeroDeSerie": numeroDeSerie, "cor": cor,
              "osOriginal": osOriginal,  "estado" : estado}
     classicMacintosh.append(classicMacintosh)
-    print("Cliente cadastrado com sucesso!")
+    print("Cadastrado com sucesso!")

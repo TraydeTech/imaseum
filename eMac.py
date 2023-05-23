@@ -14,4 +14,4 @@ def cadastrarEmac():
     eMac = {"modelo": modelo, "anoDeFabricacao": anoDeFabricacao, "numeroDeSerie": numeroDeSerie, "cor": cor,
              "osOriginal": osOriginal,  "estado" : estado}
     eMac.append(eMac)
-    print("Cliente cadastrado com sucesso!")
+    print("Cadastrado com sucesso!")
